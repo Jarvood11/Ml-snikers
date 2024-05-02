@@ -63,7 +63,13 @@ print("Model test_loss based on test data: ", test_loss)
 
 train_loss, train_acc=model.evaluate(train_images,train_labels)
 
-print("Model accuracy based on test data: ", train_acc)
+print("Model accuracy based on train data: ", train_acc)
 
-print("Model test_loss based on test data: ", train_loss)
+print("Model train_loss based on train data: ", train_loss)
+
+# Model accuracy based on test data:  0.8802000284194946
+#Model test_loss based on test data:  0.3361927270889282
+ # 1875/1875 ━━━━━━━━━━━━━━━━━━━━ 1s 687us/step - accuracy: 0.9064 - loss: 0.2513
+#  Model accuracy based on train data:  0.906416654586792
+ #  Model train_loss based on train  data:  0.25329330563545227
 
