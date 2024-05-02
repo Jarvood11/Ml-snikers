@@ -4,6 +4,8 @@ This snikers model in ML algorithm tensorflow
 Total params: 101,770 (397.54 KB)
  Trainable params: 101,770 (397.54 KB)
  Non-trainable params: 0 (0.00 B)
+ Model accuracy based on test data:  0.8755000233650208
+Model test_loss based on test data:  0.3463270366191864
 Epoch 1/6
 1875/1875 ━━━━━━━━━━━━━━━━━━━━ 3s 1ms/step - accuracy: 0.7847 - loss: 0.6303     
 Epoch 2/6
