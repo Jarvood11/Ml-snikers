@@ -1,3 +1,3 @@
 # Ml-snikers
 
-This snikes model in ML algorithm tensorflow
+This snikers model in ML algorithm tensorflow
